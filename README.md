@@ -1,28 +1,28 @@
 # Pildora Power BI y Tableau
 introducción a power BI y Tableau
 
-## Que son
+## 🤓 Que son
 
 > Herramientas Líderes de Inteligencia de Negocios
 
 > Descubre las dos plataformas de análisis de datos más poderosas del mercado, compara sus fortalezas y encuentra la solución ideal para transformar tu negocio con decisiones basadas en datos.
 ---
 
-## Presentaciones
+## 📢 Presentaciones
 Enlace a la presentación en español https://gamma.app/docs/Introduccion-a-Power-BI-y-Tableau-3sq8013ra790p23
 
 Enlace a la presentación en inglés https://gamma.app/docs/Introduction-to-Power-BI-and-Tableau-English-ucbve03o3gleist
 
 ---
 
-## Descargar programas
+## 💾 Descargar programas
 Descargar Power BI Desktop https://www.microsoft.com/es-es/download/details.aspx?id=58494
 
 Descargar Public Tableau https://www.tableau.com/es-es/products/public/download
 
 ---
 
-## Taller práctico
+## 👨‍💻 Taller práctico
 
 ### Power BI
 
@@ -37,7 +37,7 @@ Descargar Public Tableau https://www.tableau.com/es-es/products/public/download
 ---
 
 
-## Enlaces de interés
+## 🪄 Enlaces de interés
 
 1.- Curso Herramientas Power Excel. Power BI. Visualizaciones I. Vídeo 17 (Video de pildorasinformaticas.es de Juan Díaz)
 
