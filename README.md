@@ -32,7 +32,21 @@ Descargar Public Tableau https://www.tableau.com/es-es/products/public/download
 
 2.- Hacer pequeñas transformaciones de datos.
 
+3.- Manejar tablas de datos, gráficos de barras y circulares.
 
+4.- Manejar etiquetas, filtros y crear botón de restaurar datos al inicio.
+
+### Tableau
+
+**Que haremos**
+
+1.- Cargar un fichero excel con los datos.
+
+2.- Hacer pequeñas transformaciones de datos.
+
+3.- Manejar tablas de datos, gráficos de barras.
+
+4.- Crear un pequeño pronóstico.
 
 ---
 
